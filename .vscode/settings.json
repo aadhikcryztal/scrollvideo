@@ -1,0 +1,18 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "html.format.wrapAttributes": "aligned-multiple",
+    "html.format.wrapLineLength": 70,
+    "prettier.proseWrap": "always",
+    "simpleBrowser.focusLockIndicator.enabled": false,
+    "files.autoSave": "off",
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "prettier.requireConfig": true,
+    "prettier.insertPragma": true,
+    "prettier.requirePragma": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
+}
